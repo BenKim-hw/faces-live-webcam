@@ -1,0 +1,9 @@
+# Usage: pip install -r requirements.txt
+
+opencv-python
+torch
+numpy
+
+facenet_pytorch
+ultralytics
+supervision
